@@ -1,78 +1,87 @@
+
 # 🚀 SaaS Customer Support Analytics Dashboard (2026)
 
-## 📌 Project Overview  
-The **SaaS Customer Support Analytics Dashboard** is a full-stack web application currently under development, aimed at improving how organizations handle and analyze customer support operations. The system provides a centralized platform to create, manage, and track support tickets while offering real-time insights through an interactive dashboard.
+## 📌 Project Overview
 
-This project focuses on transforming traditional support systems into a **data-driven, scalable SaaS solution** that enhances efficiency and decision-making.
+The **SaaS Customer Support Analytics Dashboard** is a full-stack web application designed to streamline and enhance customer support operations. It provides a centralized platform for managing support tickets while delivering real-time insights through an interactive analytics dashboard.
 
----
-
-## 🎯 What We Are Doing  
-- Building a centralized ticket management system  
-- Developing secure REST APIs using .NET 8  
-- Creating a dynamic Angular dashboard for analytics  
-- Implementing JWT authentication for secure access  
-- Visualizing support data using charts  
-- Designing a scalable SaaS architecture  
+This project transforms traditional support systems into a **scalable, data-driven SaaS solution** that improves efficiency, security, and decision-making.
 
 ---
 
-## ⚡ Improvements Over Existing Systems  
+## 🎯 Core Objectives
 
-| Existing Systems ❌ | Our Solution ✅ |
-|-------------------|----------------|
-| Manual or scattered tracking | Centralized dashboard |
-| Limited insights | Real-time analytics |
-| Weak security | JWT-based authentication |
-| Slow response tracking | Efficient workflows |
-| Not scalable | SaaS-based architecture |
-
----
-
-## 🛠️ Tools & Technologies Used  
-
-### 🔹 Backend  
-- .NET 8 Web API  
-- C#  
-- REST API  
-
-### 🔹 Frontend  
-- Angular 17  
-- Bootstrap  
-- Chart.js  
-
-### 🔹 Other  
-- JWT Authentication  
-- SQLite Database  
-- Git & GitHub  
+* Develop a centralized ticket management system
+* Build secure REST APIs using .NET 8
+* Design an interactive Angular dashboard
+* Implement JWT-based authentication
+* Enable real-time data visualization
+* Ensure scalability with SaaS architecture
 
 ---
 
-## 📊 Key Features (In Progress)  
-- Secure Login & Authentication  
-- Ticket Creation & Management  
-- Ticket Status Tracking  
-- Real-Time Analytics Dashboard  
-- Performance Monitoring  
-- Multi-user Support  
+## ⚡ Improvements Over Existing Systems
+
+| Existing Systems ❌        | Our Solution ✅        |
+| ------------------------- | --------------------- |
+| Scattered/manual tracking | Centralized platform  |
+| Limited analytics         | Real-time insights    |
+| Basic security            | JWT authentication    |
+| Slow workflows            | Optimized performance |
+| Limited scalability       | SaaS-based system     |
 
 ---
 
-## 🚧 Project Status  
-⚠️ **Currently in Development**  
+## 🛠️ Tech Stack
 
-Core features like authentication and ticket management are being built. Advanced analytics and scalability features are in progress.
+### 🔹 Backend
+
+* .NET 8 Web API
+* C#
+* RESTful Services
+
+### 🔹 Frontend
+
+* Angular 17
+* Bootstrap
+* Chart.js
+
+### 🔹 Additional Tools
+
+* JWT Authentication
+* SQLite
+* Git & GitHub
 
 ---
 
-## 🔮 Future Enhancements  
-- AI-powered chatbot  
-- Email notifications  
-- Cloud deployment (Azure/AWS)  
-- Mobile responsiveness  
-- Predictive analytics  
+## 📊 Key Features
+
+* 🔐 Secure Authentication System
+* 🎫 Ticket Creation & Management
+* 📌 Status Tracking
+* 📈 Real-Time Analytics Dashboard
+* ⚙️ Performance Monitoring
+* 👥 Multi-user Support
 
 ---
 
-## 👩‍💻 Author  
-**Abinaya**  
+## 🚧 Project Status
+
+⚠️ **Currently Under Development**
+Core modules like authentication and ticket management are implemented, while advanced analytics and scalability features are in progress.
+
+---
+
+## 🔮 Future Enhancements
+
+* 🤖 AI-powered chatbot
+* 📧 Email notifications
+* ☁️ Cloud deployment (Azure/AWS)
+* 📱 Mobile responsiveness
+* 📊 Predictive analytics
+
+---
+
+## 👩‍💻 Author
+
+**Abinaya**
